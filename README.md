@@ -1,3 +1,6 @@
+## Fork realizado por
+Julian  - taller de Git y GitHub, Fork 
+
 # PythonPlantsVsZombies
   A simple PlantsVsZombies game. <br>
   `It's only for personal learning and noncommercial use. If this game infringes the copyright, please let me know.`
@@ -26,4 +29,5 @@ $ python main.py
 # Demo
 ![demo1](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo1.jpg)
 ![demo2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
+
 
